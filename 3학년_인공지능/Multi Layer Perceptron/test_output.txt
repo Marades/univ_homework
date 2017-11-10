@@ -1,0 +1,5 @@
+(0, 0) ===> XOR Result : 0(learning success)
+(0, 1) ===> XOR Result : 1(learning success)
+(1, 0) ===> XOR Result : 1(learning success)
+(1, 1) ===> XOR Result : 0(learning success)
+error Rate : 0%
