@@ -1,0 +1,6 @@
+세대별 Elite들의 유전자 및 오류율
+=======Train Result========
+Learning Rate : 1e-07
+generation : 411100
+weight : 2.34813873, -0.96274144, -179.9942109
+errorRate = 12% (12/100)
